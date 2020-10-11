@@ -4,11 +4,12 @@ body {
 }
 
 div.title {
-	margin-top: 100px;
+	margin-top: 50px;
 }
 
 div.subtitle {
 	margin-left: 50px;
+	font size: 1.5em;
 }
 
 h1 {
