@@ -1,12 +1,20 @@
 body {
-	background-color:#404040;
-	color:#00CC00;
+	background-color: #404040;
+	color: #00CC00;
 }
+
+div.title {
+	margin-top: 200px;
+}
+
+div.subtitle {
+	margin-left: 50px;
+}
+
 h1 {
-	text-align:center;
-	margin-top:200px;
+	text-align: center;
 }
 
 h2 {
-	margin-left:50px;
+	
 }
