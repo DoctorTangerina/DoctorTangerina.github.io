@@ -1,4 +1,2 @@
-# DoctorTangerina.github.io
-# Random Event Dice Roller plugin
-# just a fun plugin made to entertain
-# :D
+# HelloGithub
+Apenas um repositório com HelloWorld!
