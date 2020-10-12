@@ -4,6 +4,9 @@ body {
 	text-align: center;
 }
 
+ul {
+	list-style-type: none;
+}
 div.row:after {
   content: "";
   display: table;
@@ -22,12 +25,10 @@ div.title {
 }
 
 div.subtitle {
-	margin-left: 50px;
 	font size: 1.5em;
 }
 
 ul.horizontal {
-	list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
@@ -49,10 +50,6 @@ ul.horizontal li a {
 footer {
 	background-color: #F1F1F1;
 	color: #000000;
-}
-
-footer.ul {
-	list-style-type: none;
 }
 
 h3 {
