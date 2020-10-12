@@ -15,7 +15,7 @@ div.row:after {
 
 div.column {
 	float: left;
-	width: 49%;
+	width: 40%;
 	padding: 15px;
 }
 div.title {
