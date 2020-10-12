@@ -4,7 +4,8 @@ body {
 }
 
 div.title {
-	margin-top: 50px;
+	text-align: center;
+	padding: 20px;
 }
 
 div.subtitle {
@@ -13,7 +14,6 @@ div.subtitle {
 }
 
 h1 {
-	text-align: center;
 	font-size: 2.5em;
 }
 
